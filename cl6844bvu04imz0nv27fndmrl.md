@@ -4,6 +4,11 @@
 
 This guide will be divided in 3 parts: Setting Up the EC2 Instance, Configuring the Domain Controller and Installing Active Directory, and Populating the Domain.
 
+This is the first part, and the other two can be read here:
+
+1. [Creating an Active Directory Environment in AWS Part 2: Configuring the Domain Controller and Installing Active Directory](https://paulosuchoj.hashnode.dev/creating-an-active-directory-environment-in-aws-part-2-configuring-the-domain-controller-and-installing-active-directory)
+2. [Creating an Active Directory Environment in AWS Part 3: Populating the Domain](https://paulosuchoj.hashnode.dev/creating-an-active-directory-environment-in-aws-part-3-populating-the-domain)
+
 It also assumes you have the following:
 
 - An AWS account
